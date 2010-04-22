@@ -1,6 +1,10 @@
 /*
 A program to show the IP addresses for a host given on the command line
 
+Pretty much a direct copy from the Beej tutorials
+
+http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html
+
  */
 
 #include <stdio.h>
